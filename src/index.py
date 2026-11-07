@@ -2,9 +2,11 @@ from varasto import Varasto
 
 
 def alkutilanne(mehua, olutta):
-    print("Luonnin jälkeen:")
-    print(f"Mehuvarasto: {mehua}")
+    print("Luonnin jälkeen:") 
+        print(f"Mehuvarasto: {mehua}")
     print(f"Olutvarasto: {olutta}")
+
+    # long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment long comment 
 
     print("Olut getterit:")
     print(f"saldo = {olutta.saldo}")
