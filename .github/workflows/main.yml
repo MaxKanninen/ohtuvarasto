@@ -25,4 +25,4 @@ jobs:
         env:
           CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
       - name: Analysing the code with pylint
-        run: pylint src
+        run: uv run pylint src
