@@ -20,8 +20,6 @@ disable=raw-checker-failed,
 [FORMAT]
 
 max-line-length=80
-indent-string='    '
-expected-line-ending-format=
 
 [REFACTORING]
 
